@@ -1,3 +1,10 @@
 body {
-  background-color: red;
+  /*Gradient from blue to green as background color*/
+  background: linear-gradient(
+    to bottom,
+    #1e5799 0%,
+    #7db9e8 50%,
+    #7db9e8 51%,
+    #2989d8 100%
+  );
 }
