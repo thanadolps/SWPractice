@@ -1,3 +1,7 @@
 body {
-  background-color: red;
+  /*Gradient from black to white as background color*/
+  background: -webkit-linear-gradient(black, white);
+  background: -o-linear-gradient(black, white);
+  background: -moz-linear-gradient(black, white);
+  background: linear-gradient(black, white);
 }
